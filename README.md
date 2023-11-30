@@ -1,2 +1,2 @@
-# Pradeep
-my fist repo for pradeep
+# HI i am noorul ameen
+my fist repository machine learning
